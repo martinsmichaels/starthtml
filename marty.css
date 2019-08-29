@@ -1,0 +1,102 @@
+body{ display: flex; flex-direction: row; align-content: center;}
+div.firstmain {
+     width:40%; height: 100%;
+}
+div.secmain{border: 1px solid  #f2f2f2; width:50%; height: 100%; margin-top:5%;
+
+}
+.div1 {
+    margin-top:0%; margin-left:5%; width:90%; height:18%;
+}
+img {
+    height: 25%; width:25%; border-radius:50%; margin-left:35%;
+}
+.martins{
+     margin-left:30%; width: 60%; height:30%; padding-left: 10%;
+      align-content: center; font-weight: bold; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color: #993366; line-height: 12px;
+}
+.web{
+     margin-left:33%; font-family: Georgia, 'Times New Roman', Times, serif;  color:#df9fbf;
+}
+.div2{
+    margin-top:3%; margin-left:5%; width: 90%; border: 1px solid  #f2f2f2; height: 18%;
+}   
+.profile{
+    border: 1px solid  #f2f2f2; margin-top:0%; margin-left:25%; width: 35%; padding-left: 17%; border-radius:50%;
+    background-color: #94b8b8; color: white;
+}
+hr{ color: #94b8b8; width: 60%; margin-top: 0px; margin-left:20%;}
+.about{ padding-left:5%; padding-top:5%; line-height: 140%; color:#004d4d;
+
+}
+
+.div3{
+    margin-top:3%; margin-left:5%; width: 90%; border: 1px solid  #f2f2f2; height: 18%;
+}
+.contact{
+    border: 1px solid  #f2f2f2; margin-top:0%; margin-left:25%; width: 35%; padding-left: 17%; border-radius:50%;
+    background-color: #94b8b8; color: white;
+}
+.address{ padding-left:35%; padding-top:5%; line-height: 140%; color: #004d4d;
+}
+.div4{
+    margin-top:3%; margin-left:5%; width: 90%; border: 1px solid  #f2f2f2; height: 18%;   
+}
+.skills{
+    border: 1px solid  #f2f2f2; margin-top:0%; margin-left:25%; width: 35%; padding-left: 17%; border-radius:50%;
+    background-color: #94b8b8; color: white;
+}
+.language{
+    padding-left:30%; padding-top:3%; line-height: 160%; color: #004d4d; }
+    .div5{
+        margin-top:3%; margin-left:5%; width: 90%; border: 1px solid  #f2f2f2; height: 18%; 
+    }
+    .project{
+        border: 1px solid  #f2f2f2; margin-top:0%; margin-left:25%; width: 35%; padding-left: 17%; border-radius:50%;
+        background-color: #94b8b8; color: white;
+    }
+    .inventory{
+        padding-left:10%; padding-top:3%; line-height: 160%;  color: #004d4d;
+    }
+    .hardware{
+        padding-left:10%; padding-top:3%; line-height: 160%;  color: #004d4d;
+    }
+    span.inv{ font-weight:bold; text-align: center;}
+    span.had{ font-weight:bold; text-align: center;}
+    .div6{
+        margin-top:10%; margin-left:0%; width: 100%; height:39%;   
+    }
+    .experience{
+        border:none; margin-top:0%; margin-left:0%; width: 35%; padding-left: 17%; border-radius:100% 0%;
+        background-color: #94b8b8; color: white;
+    }
+    .h{color: #94b8b8; width: 60%; margin-top: 0px; margin-left:0%;}
+    .connection{
+        padding-left:0%; padding-top:0%; line-height: 160%; width: 100%;  border-collapse: collapse; border: 0px; color: #004d4d;
+    }
+
+th, td { text-align: left; padding: 8px;}
+tr:nth-child(even) {background-color: #f2f2f2;}
+    .school{
+        padding-left:0%; padding-top:6%; line-height: 160%; border-collapse: collapse; width: 100%; border: 0px; color: #004d4d;
+    }
+    .div7{
+        margin-top:7%; margin-left:0%; width: 100%; height:39%;     
+    }
+    .education{
+        border: 1px solid  #f2f2f2; margin-top:0%; margin-left:0%; width: 35%; padding-left: 17%; border-radius:100% 0%;
+        background-color: #94b8b8; color: white; 
+    }
+    .edu{
+        padding-left:0%; padding-top:6%; line-height: 160%; border-collapse: collapse; width: 100%; border: 0px;   color: #004d4d;
+    }
+    .div8{
+        margin-top:7%; margin-left:0%; width: 100%; height:39%;    
+    }
+    .passion{
+        border: 1px solid  #f2f2f2; margin-top:0%; margin-left:0%; width: 35%; padding-left: 17%; border-radius:100% 0%;
+        background-color: #94b8b8; color: white;     
+    }
+    ul{
+        list-style-type:none; margin-top: 3%; margin-left:5%; line-height:140%; color: #004d4d;
+    }
